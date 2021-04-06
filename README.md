@@ -1,9 +1,9 @@
 # Grade-Percentage-Calculator
 
 ## Features
-student check his/her result grade .
+Student can check his/her result grade .
 
-### student-grade-caculator
+### Student-grade-caculator
 - use core javaScript and core functionlety .
 
 
