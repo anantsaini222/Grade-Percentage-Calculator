@@ -9,4 +9,6 @@ Student can check his/her result grade .
 -JAVASCRIPT
 -ES6
 
+<br>
+<br>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/anantsaini222/Grade-Percentage-Calculator/38dbd8bd1676f7ce85cea10fac81fd18234ef1a8/Student.JPG" />
